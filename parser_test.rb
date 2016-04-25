@@ -1,5 +1,5 @@
 require_relative "parser.rb"
-∫require "minitest/autorun"
+require "minitest/autorun"
 
 class TestParser < Minitest::Test
 
